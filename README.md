@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arulrajan358
+- 👋 Hi, I’m @Arulrajan
 - 👀 I’m interested in **Data Analytics, Machine Learning, and AI** 
 - 🌱 I’m skilled in **Python, SQL, Advanced Excel, Data Visualization (Power BI), and Machine Learning**  
 - 💞️ I’m looking to collaborate on full time data analytics job
