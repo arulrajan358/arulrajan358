@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arulrajan
+- 👋 Hi, I’m Arulrajan
 - 👀 I’m interested in **Data Analytics, Machine Learning, and AI** 
 - 🌱 I’m skilled in **Python, SQL, Advanced Excel, Data Visualization (Power BI), and Machine Learning**  
 - 💞️ I’m looking to collaborate on full time data analytics job
@@ -17,7 +17,7 @@ Connect with me:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 
-ToolS and Technologies I Use
+Tools and Technologies I Use
 -------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"></a>
